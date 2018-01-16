@@ -1,0 +1,3 @@
+build/*.tf
+build/.terraform
+build/plan.txt

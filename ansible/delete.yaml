@@ -1,0 +1,9 @@
+---
+###########################
+# Setup S3
+###########################
+
+- hosts: localhost
+  connection: local
+  roles:
+    - delete-s3
